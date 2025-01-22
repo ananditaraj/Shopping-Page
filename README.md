@@ -1,2 +1,2 @@
 # Shopping Page
- A simple shopping page, where users cana dd items.
+ A simple shopping page incorporating HTML5, CSS3 and JS
