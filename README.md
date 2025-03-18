@@ -1,8 +1,11 @@
+
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 # EcoSheher
 
-Empowering citizens through technology! 🚀 Our **Civic App** bridges the gap between citizens and civic authorities, providing a seamless platform for reporting issues, accessing essential services, and staying informed.
-
-## 📸 Screenshots
+Empowering citizens through technology! 🚀 The **Civic App** bridges the gap between citizens and civic authorities, providing a seamless platform for reporting issues, accessing essential services, and staying informed.
 
 Here’s a glimpse of our Civic App in action:
 
@@ -10,9 +13,13 @@ Here’s a glimpse of our Civic App in action:
 |------------|----------------|------------------|-------------|
 | ![Home](./screenshots/home.png) | ![Report Issue](./screenshots/report.png) | ![Requests](./screenshots/requests.png) | ![Updates](./screenshots/updates.png) |
 
-> _Enhancing civic engagement with a user-friendly and efficient solution._
 
----
+## Authors
+
+- [@Pujadas080907](https://github.com/Pujadas080907)
+- [@ananditaraj](https://github.com/ananditaraj)
+
+
 
 ## 🛠️ Tech Stack
 
@@ -51,24 +58,16 @@ Here’s a glimpse of our Civic App in action:
 3. Configure Firebase & Google APIs in `google-services.json`
 4. Run the app on an emulator or physical device
 
----
-
-## 🤝 Contributing
-
-We welcome contributions! Feel free to fork the repo and submit PRs. 
-
-1. Fork the repository 🍴
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Open a Pull Request 🚀
-
----
+---,
 
 ## 📧 Contact
 
 💡 Have suggestions or feedback? Reach out at [your-email@example.com](mailto:your-email@example.com)
 
 ---
+## Authors
+
+- [@Pujadas080907](https://github.com/Pujadas080907)
+- [@ananditaraj](https://github.com/ananditaraj)
 
 ⭐ **Show your support!** If you like this project, give it a star on GitHub! 🌟
