@@ -1,4 +1,4 @@
-# 🌍 Civic App
+# EcoSheher
 
 Empowering citizens through technology! 🚀 Our **Civic App** bridges the gap between citizens and civic authorities, providing a seamless platform for reporting issues, accessing essential services, and staying informed.
 
